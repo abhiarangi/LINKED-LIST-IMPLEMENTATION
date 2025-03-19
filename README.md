@@ -14,4 +14,6 @@
 
  #WE NEED TO ADD DESCRIPTION OF OUR TASK ATLEAST 500 WORDS
 
- #ALSO PUT THE OUTUT IMG URL LINK 
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/e26f83c8-79bd-4ff7-ad2d-3184fee553b5)
